@@ -50,7 +50,8 @@ $:- todo "Make the scripts" "make the scripts and include all the data"
 ```
 This include in your **Remember the Milk** todo list a new *TODO*.
 
-![screenshot](https://raw.githubusercontent.com/kmilouh/rememberthemilk_tool/master/Screenshoot.png)
+![screenshot](https://github.com/kmilouh/rememberthemilk_tool/raw/master/Screenshot.png)
+              
 
 
     
