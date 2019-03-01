@@ -1,6 +1,7 @@
 # TODO command line tool
 
-This scripts allow to use the [Remember the milk](https://www.rememberthemilk.com/) api from the command line using your Gmail account.
+
+Many times I am typing in a console and I want to add a TODO without leaving the console. This scripts allow to use the [Remember the milk](https://www.rememberthemilk.com/) api from the command line using your Gmail account.
 
 ## Requirements
 
